@@ -88,6 +88,10 @@ a {
 .obj{
     object-fit: cover;
 }
+
+body,html{
+    overflow-x: hidden;
+}
 .ob-t{
     object-position: top;
 }
